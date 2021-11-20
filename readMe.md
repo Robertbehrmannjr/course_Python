@@ -1,1 +1,1 @@
-Atividades da aula do curso de python
+Atividades das aulas do curso de python
